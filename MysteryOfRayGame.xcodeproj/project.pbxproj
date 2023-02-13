@@ -31,7 +31,7 @@
 		A0D668BD2996F53D00DC3030 /* MysteryOfRayGame */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MysteryOfRayGame; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0D668C02996F53D00DC3030 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A0D668C72996F55400DC3030 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
-		A0D668CB2996F6C400DC3030 /* Chapter1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Chapter1.swift; path = MysteryOfRayGame/Chapter1.swift; sourceTree = "<group>"; };
+		A0D668CB2996F6C400DC3030 /* Chapter1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter1.swift; sourceTree = "<group>"; };
 		A0D668CD299704D300DC3030 /* BattleSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BattleSystem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,9 +49,6 @@
 		A0D668B42996F53D00DC3030 = {
 			isa = PBXGroup;
 			children = (
-				A09BE24329974FAB00A38217 /* Atacks.swift */,
-				A0D668CD299704D300DC3030 /* BattleSystem.swift */,
-				A0D668CB2996F6C400DC3030 /* Chapter1.swift */,
 				A0D668BF2996F53D00DC3030 /* MysteryOfRayGame */,
 				A0D668BE2996F53D00DC3030 /* Products */,
 			);
@@ -70,6 +67,9 @@
 			children = (
 				A0D668C02996F53D00DC3030 /* main.swift */,
 				A0D668C72996F55400DC3030 /* User.swift */,
+				A0D668CB2996F6C400DC3030 /* Chapter1.swift */,
+				A0D668CD299704D300DC3030 /* BattleSystem.swift */,
+				A09BE24329974FAB00A38217 /* Atacks.swift */,
 			);
 			path = MysteryOfRayGame;
 			sourceTree = "<group>";

@@ -110,7 +110,7 @@ class Chapter1: Chapter {
         }
         
         sleep(1)
-        print("= You can hear a whisper on you hear =")
+        print("= You can hear a whisper on your ear =")
         print("Voice: \(user.name)... co... ack.... come.... back...")
         sleep(2)
         print("Voice: Watch out!")
